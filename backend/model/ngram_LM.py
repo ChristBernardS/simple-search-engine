@@ -22,7 +22,7 @@ def ngram_LM(query, total_unigram, total_bigram, total_trigram, total_vocabulary
         if candidates:
             return sorted(candidates.items(), key=lambda x: x[1], reverse=True)[:top_k]
 
-        return total_unigram.most_common(top_k)
+        return []
 
     elif n == 1:
         w = stem_query[0]
@@ -33,7 +33,7 @@ def ngram_LM(query, total_unigram, total_bigram, total_trigram, total_vocabulary
         if candidates:
             return sorted(candidates.items(), key=lambda x: x[1], reverse=True)[:top_k]
 
-        return total_unigram.most_common(top_k)
+        return []
 
     else:
-        return total_unigram.most_common(top_k)
+        return []
