@@ -2,6 +2,11 @@
 
 Website ini adalah search engine sederhana menggunakan Python dan Flask sebagai backend serta Typescript React sebagai frontend.
 
+## Anggota Kelompok
+- 71220833 - Christopher Bernard
+- 71220864 - Ricardo Yan Augusto
+- 71220909 - David Delon Seay
+
 ## 📁 Struktur Folder
 - `src/corpus/` — Kumpulan dokumen teks yang akan diproses.
 - `backend/` — Hasil pemrosesan seperti index dan model bahasa.
