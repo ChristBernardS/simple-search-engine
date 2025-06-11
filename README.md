@@ -1,6 +1,6 @@
 # Search Engine App (Berita Bahasa Indonesia)
 
-Aplikasi ini adalah search engine sederhana menggunakan Python dan Flask sebagai backend serta Typescript React sebagai frontend.
+Website ini adalah search engine sederhana menggunakan Python dan Flask sebagai backend serta Typescript React sebagai frontend.
 
 ## 📁 Struktur Folder
 - `src/corpus/` — Kumpulan dokumen teks yang akan diproses.
@@ -10,7 +10,7 @@ Aplikasi ini adalah search engine sederhana menggunakan Python dan Flask sebagai
 - `normalize.py` — Proses cleaning dan tokenisasi.
 - `src/` — Folder frontend React.
 
-## 🚀 Cara Menjalankan Aplikasi
+## 🚀 Cara Menjalankan Website
 
 ### 1. Install Dependency Python
 ```bash
@@ -28,3 +28,7 @@ npm install
 ```bash
 npm run dev
 ```
+
+## 📷 Preview Website
+![image](https://github.com/user-attachments/assets/71ab5208-c2e9-4eec-a403-4fac4fe32c2d)
+![image](https://github.com/user-attachments/assets/0b85c4f9-0d31-46d5-a4e5-ebc5612c5f93)
