@@ -1,14 +1,14 @@
-# Search Engine App (Bahasa Indonesia)
+# Search Engine App (Berita Bahasa Indonesia)
 
-Aplikasi ini adalah search engine sederhana menggunakan Python dan Flask sebagai backend serta React sebagai frontend.
+Aplikasi ini adalah search engine sederhana menggunakan Python dan Flask sebagai backend serta Typescript React sebagai frontend.
 
 ## 📁 Struktur Folder
-- `dataset/` — Kumpulan dokumen teks yang akan diproses.
-- `output/` — Hasil pemrosesan seperti index dan model bahasa.
-- `main.py` — Program utama untuk membangun indeks dan model prediksi.
-- `search.py` — Menyediakan fungsi pencarian.
-- `preprocessing.py` — Proses cleaning dan tokenisasi.
-- `client/` — Folder frontend React.
+- `src/corpus/` — Kumpulan dokumen teks yang akan diproses.
+- `backend/` — Hasil pemrosesan seperti index dan model bahasa.
+- `app.py` — Program utama untuk membangun indeks dan model prediksi.
+- `ngram_LM.py` — Menyediakan fungsi pencarian.
+- `normalize.py` — Proses cleaning dan tokenisasi.
+- `src/` — Folder frontend React.
 
 ## 🚀 Cara Menjalankan Aplikasi
 
