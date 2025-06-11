@@ -15,3 +15,16 @@ Aplikasi ini adalah search engine sederhana menggunakan Python dan Flask sebagai
 ### 1. Install Dependency Python
 ```bash
 pip install -r requirements.txt
+```
+
+### 2. Jalankan Flask
+run app.py pada folder backend/
+
+### 3. Jalankan Frontend
+```bash
+npm install
+```
+
+```bash
+npm run dev
+```
