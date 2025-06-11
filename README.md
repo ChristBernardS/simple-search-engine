@@ -17,6 +17,11 @@ Website ini adalah search engine sederhana menggunakan Python dan Flask sebagai 
 pip install -r requirements.txt
 ```
 
+### 2. Install Node.js
+```bash
+Downdload Node Js [Download Node Js](https://nodejs.org/en/download)
+```
+
 ### 2. Jalankan Flask
 run app.py pada folder backend/
 
