@@ -1,6 +1,6 @@
 [build]
   command = "pip install -r requirements.txt"
-  publish = "./dist
+  publish = "./dist"
   functions = "netlify/functions"
 
 [[redirects]]
@@ -14,3 +14,4 @@
     Access-Control-Allow-Origin = "https://simple-search-engine-ui.netlify.app"
     Access-Control-Allow-Methods = "GET, POST, OPTIONS"
     Access-Control-Allow-Headers = "Content-Type"
+
