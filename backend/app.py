@@ -10,8 +10,7 @@ from model.snippet import generate_snippet
 from model.read_corpus import read_corpus
 
 app = Flask(__name__)
-frontend_url = "https://simple-search-engine-ui.netlify.app"
-cors = CORS(app, resources={r"/predict*": {"origins": frontend_url}})
+CORS(app)
 
 # Load model saat startup
 try:
