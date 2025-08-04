@@ -29,7 +29,9 @@ const Index = () => {
     setDocuments([]);
 
     try {
-      const response = await fetch("https://simple-search-engine-backend.netlify.app/predict", {
+      const apiUrl = `${import.meta.env.VITE_API_BASE_URL}/predict`;
+
+      const response = await fetch(apiUrl, {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({ query: query.trim() }),
@@ -121,9 +123,9 @@ const Index = () => {
         <Card className="mt-8 border-dashed">
           <CardContent className="pt-6">
             <div className="text-center text-sm text-muted-foreground">
-              <p className="mb-2">
+              {/* <p className="mb-2">
                 <strong>Instructions:</strong> Make sure your Flask server is running on localhost:5000
-              </p>
+              </p> */}
               <p className="text-xs">
                 The system analyzes documents in your corpus folder to predict the next most likely words
               </p>
@@ -136,4 +138,3 @@ const Index = () => {
 };
 
 export default Index;
-
