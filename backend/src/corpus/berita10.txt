@@ -1,0 +1,42 @@
+Apakah Deep Research ChatGPT Bisa Gantikan Pakar Manusia?
+CNN Indonesia
+Senin, 17 Feb 2025 19:30 WIB
+
+Jakarta, CNN Indonesia -- Deep Research dari OpenAI merupakan fitur kecerdasan buatan (AI) terbaru yang menawarkan analisis mendalam layaknya seorang pakar manusia, tetapi hanya membutuhkan waktu hitungan menit.
+Deep Research ditawarkan sebagai fitur dalam ChatGPT Pro dan dipasarkan sebagai asisten riset yang dapat menandingi analis terlatih. Ia disebut secara otonom mencari di web, mengumpulkan sumber-sumber dan memberikan laporan terstruktur.
+
+Ia bahkan mendapat nilai 26,6 persen pada Humanity's Last Exam (HLE), sebuah tolok ukur AI yang sulit dan mengungguli banyak model.
+
+Namun, Deep Research tidak sempurna dan memiliki kekurangan serius.
+
+Dikutip dari Science Alert, Deep Research bisa melewatkan detail-detail penting, kesulitan mendapatkan informasi terbaru dan terkadang menciptakan fakta-fakta baru.
+
+OpenAI sendiri menyoroti hal tersebut dan menyebut keterbatasan alatnya. Perusahaan ini juga mengatakan alat ini "terkadang dapat berhalusinasi memberikan tanggapan atau membuat kesimpulan yang salah, meskipun dengan tingkat yang jauh lebih rendah daripada model ChatGPT yang ada, menurut evaluasi internal."
+
+Lantas, apakah kemampuan Deep Research sudah cukup menggantikan pakar manusia?
+
+Tak seperti chatbot standar yang hanya merespons cepat, Deep Research mengikuti proses multilangkah untuk menghasilkan laporan terstruktur:
+
+1. Pengguna mengajukan permintaan. Permintaan bisa berupa apa saja, mulai dari analisis pasar hingga ringkasan kasus hukum.
+
+2. AI mengklarifikasi tugas tersebut. AI dapat mengajukan pertanyaan lanjutan untuk menyempurnakan ruang lingkup penelitian.
+
+3. Agen menelusuri web. Agen secara mandiri menelusuri ratusan sumber, termasuk artikel berita, makalah penelitian dan basis data online.
+
+4. Ia lalu menyintesis temuannya. AI mengekstrak poin-poin penting, menyusunnya menjadi laporan terstruktur dan mengutip sumber-sumbernya.
+
+5. Laporan akhir dikirimkan. Dalam waktu lima hingga 30 menit, pengguna menerima dokumen multihalaman, yang bahkan bisa jadi tesis tingkat PhD, yang meringkas temuan-temuannya.
+
+Sekilas ini terlihat seperti alat impian bagi para periset atau pekerjaan yang berkutat dengan pengetahuan. Namun, jika dilihat lebih dekat ternyata ada keterbatasan yang signifikan.
+
+Berikut beberapa keterbatasan yang ada pada Deep Research:
+
+- Tidak memiliki konteks. AI dapat meringkas, tetapi tidak sepenuhnya memahami apa yang penting.
+
+- AI mengabaikan perkembangan baru. AI melewatkan keputusan hukum besar dan pembaruan ilmiah.
+
+- AI mengada-ada. Seperti model AI lainnya, model ini dengan percaya diri dapat menghasilkan informasi yang salah.
+
+- AI tidak dapat membedakan fakta dan fiksi. AI tidak bisa membedakan sumber yang otoritatif dengan sumber yang tidak dapat diandalkan.
+
+Meskipun OpenAI mengklaim bahwa alatnya dapat menyaingi analis manusia, AI tidak dapat dipungkiri tidak memiliki penilaian, ketelitian dan keahlian yang membuat penelitian menghasilkan output yang baik.
