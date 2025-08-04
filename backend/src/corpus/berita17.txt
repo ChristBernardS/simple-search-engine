@@ -1,0 +1,78 @@
+Apple Tak Bakal Luncurkan iOS 19, Lompat ke iOS 26
+CNN Indonesia
+Rabu, 04 Jun 2025 16:30 WIB
+
+Jakarta, CNN Indonesia -- Apple dikabarkan tak akan merilis sistem operasi baru bernama iOS 19, melainkan memberikan nama lain yakni iOS 26. Hal ini meruntuhkan tradisi pemberian nama iOS yang selalu berurutan setiap tahunnya.
+Sistem penamaan ini juga berlaku untuk perangkat Apple lain, mulai dari iPad hingga Mac. Artinya, iOS 26 akan diluncurkan bersama dengan iPadOS 25, macOS 26, watchOS 26, tvOS 26, dan visionOS 26.
+
+Dikutip dari Macrumors, angka "26" pada nama tersebut menandai musim rilis September 2025 hingga September 2026 untuk iOS 26. Dengan demikian, tahun depan kita akan mendapatkan iOS 27, lalu iOS 28, dan seterusnya.
+
+iOS 26 akan mendapatkan perombakan desain besar-besaran, mengadopsi beberapa elemen visual dari sistem operasi visionOS. Di dalam Apple, proyek desain ini disebut sebagai "Solarium".
+
+Solarium adalah ruangan serba kaca yang dirancang untuk memasukkan sinar matahari, dan rumornya, iOS 26 akan mengadopsi estetika yang terinspirasi kaca lebih tembus pandang.
+
+VisionOS memiliki antarmuka tembus pandang untuk memungkinkan orang melihat sekelilingnya dalam AR atau VR sambil berinteraksi dengan menu aplikasi dan jendela. Jendela visionOS menyatu dengan latar belakang untuk tampilan yang tidak mencolok, dan di iPhone, Apple dapat mengadopsi fokus tembus pandang yang sama agar konten dapat terlihat jelas.
+
+iOS 26 juga diprediksi mendapatkan beberapa jendela dan menu mengambang di layar yang digunakan di visionOS, dengan navigasi pop-up bulat dan bilah menu mengambang di atas konten pada layar.
+
+Apple mungkin menggunakan efek shading, bayangan, dan efek pencahayaan yang halus untuk memberikan sedikit peningkatan pada tombol dan elemen antarmuka lainnya.
+
+Ikon aplikasi mungkin lebih bulat, dan notifikasi, menu dalam aplikasi, bilah pencarian, antarmuka bergaya kartu, dan bagian lain dari antarmuka pengguna iOS mungkin memiliki sudut yang lebih bulat daripada yang biasa kita lihat. Misalnya, bilah navigasi floating diperkirakan akan berbentuk pil.
+
+iOS 26 telah digambarkan memiliki tampilan yang mengilap atau seperti kaca, yang juga merupakan tampilan visionOS.
+
+Gambar teaser WWDC 2025 Apple menampilkan pelangi kaca buram dengan warna-warna lembut, dan gambar-gambar itu mungkin mengisyaratkan apa yang akan datang. Apple mungkin akan menggunakan gaya kaca buram yang lembut di iOS 26.
+
+Fitur
+
+Beberapa fitur AI kemungkinan akan hadir pada iOS 26, salah satunya manajemen baterai. Fitur manajemen baterai bertenaga AI akan menganalisis cara Anda menggunakan iPhone dan membuat penyesuaian untuk memaksimalkan masa pakai baterai.
+
+Opsi ini akan dapat membatasi penarikan daya aplikasi dan fitur sistem lainnya berdasarkan penggunaan perangkat.
+
+Manajemen baterai akan sangat berguna untuk iPhone 17 Air yang akan memiliki baterai lebih kecil daripada iPhone lainnya.
+
+Apple juga berencana memperbarui aplikasi Shortcuts dengan Apple Intelligence, yang memungkinkan pengguna membuat tindakan menggunakan model Apple Intelligence. Dengan fungsi ini, Shortcuts dapat lebih mudah digunakan, bahkan pengguna awam pun dapat membuat shortcuts yang berguna menggunakan bahasa alami.
+
+Apple dan Google hampir mencapai kesepakatan yang akan menambahkan Google Gemini ke iPhone sebagai alternatif ChatGPT, dan ini merupakan fitur yang kemungkinan besar akan ada di iOS 26.
+
+Google Gemini akan berintegrasi dengan Siri seperti ChatGPT, dengan Siri dapat menyerahkan permintaan kepada Gemini untuk mendapatkan jawaban yang lebih mendalam didukung AI.
+
+Apple memiliki aplikasi game baru yang akan menggantikan Game Center dengan lebih banyak fungsionalitas daripada sebelumnya. Aplikasi ini akan menjadi bagian dari game di App Store, sehingga Anda akan dapat menemukan dan meluncurkan game dari satu tempat.
+
+Aplikasi ini juga kemungkinan dapat menampilkan opsi komunikasi untuk terhubung dengan pemain lain, pencapaian dalam game, konten dan rekomendasi editorial, serta papan peringkat.
+
+Lebih lanjut, dengan pembaruan firmware AirPods, fitur iOS 26 akan memungkinkan AirPods menerjemahkan percakapan langsung dari satu bahasa ke bahasa lain.
+
+Jika pembicara menggunakan bahasa Inggris dengan AirPods sedang bercakap-cakap dengan seseorang yang berbicara dalam bahasa Spanyol, iPhone akan mendeteksi audio, menerjemahkan ucapan, dan menyampaikannya kembali dalam bahasa Inggris kepada pemakai AirPods.
+
+Masih banyak fitur lain yang dikabarkan hadir pada iOS terbaru, seperti terjemahan otomatis dan fitur jajak pendapat di aplikasi Messages, hingga animasi layar penuh pada Layar Penguncian.
+
+Perangkat kompatibel
+
+Sejumlah rumor menyebut iOS 26 tidak akan tersedia untuk iPhone XR, iPhone XS, dan iPhone XS Max. Berikut daftar iPhone yang bakal diberi pembaruan iOS 26:
+
+- iPhone 16e
+- iPhone 16
+- iPhone 16 Plus
+- iPhone 16 Pro
+- iPhone 16 Pro Max
+- iPhone 15
+- iPhone 15 Plus
+- iPhone 15 Pro
+- iPhone 15 Pro Max
+- iPhone 14
+- iPhone 14 Plus
+- iPhone 14 Pro
+- iPhone 14 Pro Max
+- iPhone 13
+- iPhone 13 mini
+- iPhone 13 Pro
+- iPhone 13 Pro Max
+- iPhone 12
+- iPhone 12 mini
+- iPhone 12 Pro
+- iPhone 12 Pro Max
+- iPhone 11
+- iPhone 11 Pro
+- iPhone 11 Pro Max
+- iPhone SE (2nd generation ke atas)
