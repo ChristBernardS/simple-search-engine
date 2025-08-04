@@ -29,9 +29,15 @@ const Index = () => {
     setDocuments([]);
 
     try {
-      const apiUrl = `${import.meta.env.VITE_API_BASE_URL}/predict`;
+      const apiBaseUrl = import.meta.env.VITE_API_BASE_URL;
 
-      const response = await fetch(apiUrl, {
+      if (!apiBaseUrl) {
+        throw new Error("API base URL is not configured. Please set VITE_API_BASE_URL.");
+      }
+
+      const fullApiUrl = `${apiBaseUrl}/predict`;
+
+      const response = await fetch(fullApiUrl, {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({ query: query.trim() }),
