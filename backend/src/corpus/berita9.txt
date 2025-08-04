@@ -1,0 +1,52 @@
+Ancaman Deepfake di Era Digital: Bagaimana Cara AI Menangkalnya?
+HONOR | CNN Indonesia
+Sabtu, 22 Feb 2025 12:02 WIB
+
+Jakarta, CNN Indonesia -- Berdasarkan laporan Entrust Cybersecurity Institute serangan deepfake terjadi setiap lima menit pada 2024, dengan peningkatan pemalsuan dokumen digital sebesar 244% dibanding tahun sebelumnya.
+Hal ini menjadi tantangan besar bagi bisnis dan individu dalam memastikan keamanan data serta keabsahan konten digital, termasuk di kawasan Asia tenggara.
+
+Deloitte mencatat 59% masyarakat merasa kesulitan membedakan konten asli dengan hasil AI. Sementara itu, 84% dari mereka yang akrab dengan teknologi AI menyatakan bahwa konten yang dibuat AI harus diberi label yang jelas.
+
+Dengan meningkatnya volume dan kecanggihan deepfake, industri yang bergerak dalam dunia digital seperti iGaming (1520%), marketplace (900%), fintech (533%), crypto (217%), dan konsultasi (138%) mengalami peningkatan paparan terhadap risiko deepfake.
+
+Oleh karena itu, perusahaan-perusahaan mulai mengambil langkah strategis dalam menghadapi ancaman ini.
+
+Inisiatif global dalam menangkal deepfake
+Sejumlah perusahaan teknologi dunia turut bergerak dalam melawan penyebaran deepfake dengan mengembangkan berbagai sistem keamanan.
+
+Adobe, Arm, Intel, Microsoft, dan Truepic misalnya, yang mendirikan Content Provenance and Authenticity (C2PA) untuk mengembangkan standar sertifikasi konten digital. Microsoft menggunakan AI untuk mendeteksi deepfake dengan fitur otomatis yang mengaburkan wajah dalam konten yang diunggah ke Copilot.
+
+Truepic dan Qualcomm mengembangkan teknologi enkripsi media di Snapdragon® 8 Gen 3 Mobile Platform untuk memastikan keaslian konten sejak pertama kali dibuat. McAfee memanfaatkan AI Snapdragon X Elite NPU untuk mendeteksi deepfake secara lokal, meningkatkan kecepatan dan menjaga privasi pengguna.
+
+Selain itu, teknologi AI berbasis perangkat menjadi salah satu langkah efektif dalam menghadapi deepfake. Hal ini sebagaimana disampaikan oleh Marco Kamiya, perwakilan UNIDO Kantor Sub-Regional di Jakarta.
+
+AI Deepfake Detection dapat mengidentifikasi anomali seperti gerakan mata, pencahayaan, kejelasan gambar, serta pemutaran video, yang sering kali luput dari perhatian manusia.
+
+Langkah ini penting mengingat 49% perusahaan telah mengalami serangan deepfake audio dan video dalam periode November 2023 hingga November 2024. Sayangnya, 61% eksekutif bisnis mengakui belum memiliki protokol khusus untuk menangani risiko deepfake.
+
+Oleh karena itu, adopsi teknologi AI Deepfake Detection menjadi solusi yang krusial dalam melindungi individu maupun bisnis.
+
+HONOR hadir dengan solusi inovatif melalui teknologi AI Deepfake Detection, sebuah fitur berbasis AI yang mampu mendeteksi pemalsuan wajah secara real-time di perangkat seluler. Teknologi ini dirancang untuk melindungi pengguna dari konten sintetis yang sulit dikenali oleh mata manusia.
+
+Ciri-Ciri Deepfake yang Dapat Dikenali AI
+Deepfake sering kali sulit dibedakan dengan konten asli karena kemajuan teknologi AI dalam menghasilkan gambar dan video yang realistis.
+
+Namun, HONOR AI Deepfake Detection menggunakan pendekatan komprehensif untuk mengidentifikasi deepfake dengan menganalisis beberapa elemen kunci, seperti:
+
+Ketidaksempurnaan piksel pada area wajah yang dihasilkan AI.
+Artefak komposit pada tepi gambar yang menunjukkan manipulasi digital.
+Konsistensi antara frame video untuk mendeteksi perubahan abnormal.
+Keanehan pada gaya rambut dan posisi telinga yang sering tidak selaras dengan wajah asli.
+Gangguan visual seperti jitter dan flicker yang muncul akibat proses penyuntingan AI.
+"Teknologi AI Deepfake Detection HONOR adalah solusi AI berbasis perangkat yang secara ahli mendeteksi pemalsuan wajah dan memperingatkan pengguna tentang potensi risiko dengan cepat. Dilatih dengan dataset besar dari video dan gambar, teknologi ini dapat dengan cepat mendeteksi serta memberi peringatan kepada pengguna mengenai wajah yang dihasilkan atau diubah," ujar Juru Bicara HONOR, Justin Li.
+
+Dengan kemampuan ini, fitur AI Deepfake Detection dapat memberikan peringatan dini kepada pengguna jika terdapat indikasi konten yang telah dimanipulasi.
+
+Keamanan Digital dengan HONOR MagicOS
+HONOR memperkuat fitur AI Deepfake Detection dengan MagicGuard, sistem keamanan terintegrasi dalam HONOR MagicOS yang menawarkan perlindungan tiga lapis di tingkat chipset, sistem operasi, dan aplikasi.
+
+"Teknologi AI Deepfake Detection eksklusif milik HONOR merupakan kemajuan penting dalam melindungi pengguna dari kerentanan terkait AI berbasis cloud, seperti malware atau pelanggaran keamanan," kata Justin Li.
+
+"Jawaban HONOR atas masalah ini adalah melalui penerapan perlindungan di tingkat chip yang tertanam dalam HONOR MagicOS. MagicGuard, langkah keamanan menyeluruh dalam MagicOS, mencakup tiga bentuk perlindungan di tingkat chipset, sistem operasi, dan aplikasi. Melalui kemitraan dengan para pemimpin teknologi industri, HONOR MagicOS bertujuan untuk menawarkan enkripsi berbasis perangkat keras guna melindungi data pengguna, memberikan privasi dan keamanan yang lebih baik," ujarnya lagi.
+
+Dengan pertumbuhan pasar deteksi deepfake yang diproyeksikan mencapai US$ 15,7 miliar pada 2026, teknologi seperti HONOR AI Deepfake Detection menjadi elemen penting dalam menjaga keabsahan konten digital dan keamanan pengguna di era AI.
