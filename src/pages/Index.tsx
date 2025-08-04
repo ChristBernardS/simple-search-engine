@@ -29,15 +29,7 @@ const Index = () => {
     setDocuments([]);
 
     try {
-      const apiBaseUrl = import.meta.env.VITE_API_BASE_URL;
-
-      if (!apiBaseUrl) {
-        throw new Error("API base URL is not configured. Please set VITE_API_BASE_URL.");
-      }
-
-      const fullApiUrl = `${apiBaseUrl}/predict`;
-
-      const response = await fetch(fullApiUrl, {
+      const response = await fetch("https://simple-search-engine-api.netlify.app/api/predict", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({ query: query.trim() }),
@@ -142,5 +134,6 @@ const Index = () => {
     </div>
   );
 };
+
 
 export default Index;
