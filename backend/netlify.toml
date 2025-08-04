@@ -1,0 +1,12 @@
+[build]
+  # Perintah untuk menginstall semua dependensi Python Anda
+  command = "pip install -r requirements.txt"
+  
+  # Direktori di mana Netlify akan menemukan function Anda
+  functions = "netlify/functions"
+
+# Aturan ini mengarahkan semua lalu lintas dari /api/... ke function Anda
+[[redirects]]
+  from = "/api/*"
+  to = "/.netlify/functions/api/:splat"
+  status = 200
