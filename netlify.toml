@@ -1,9 +1,0 @@
-[build]
-  command = "npm run build"      # Perintah build frontend Anda
-  publish = "frontend/dist"    # Folder output build frontend
-  functions = "netlify/functions" # Folder serverless functions
-
-[[redirects]]
-  from = "/api/*"
-  to = "/.netlify/functions/:splat"
-  status = 200
