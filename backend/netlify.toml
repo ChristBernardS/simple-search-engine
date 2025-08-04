@@ -1,5 +1,5 @@
 [build]
-  command = "pip install -r requirements.txt"
+  command = "npm run build"
   publish = "./dist"
   functions = "netlify/functions"
 
@@ -14,4 +14,5 @@
     Access-Control-Allow-Origin = "https://simple-search-engine-ui.netlify.app"
     Access-Control-Allow-Methods = "GET, POST, OPTIONS"
     Access-Control-Allow-Headers = "Content-Type"
+
 
