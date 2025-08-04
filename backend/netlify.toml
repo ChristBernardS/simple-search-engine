@@ -1,12 +1,15 @@
 [build]
-  # Perintah untuk menginstall semua dependensi Python Anda
   command = "pip install -r requirements.txt"
-  
-  # Direktori di mana Netlify akan menemukan function Anda
   functions = "netlify/functions"
 
-# Aturan ini mengarahkan semua lalu lintas dari /api/... ke function Anda
 [[redirects]]
   from = "/api/*"
   to = "/.netlify/functions/api/:splat"
   status = 200
+
+[[headers]]
+  for = "/api/*"
+  [headers.values]
+    Access-Control-Allow-Origin = "https://simple-search-engine-ui.netlify.app"
+    Access-Control-Allow-Methods = "GET, POST, OPTIONS"
+    Access-Control-Allow-Headers = "Content-Type"
