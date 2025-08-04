@@ -1,7 +1,0 @@
-Flask
-Flask-Cors
-serverless-wsgi
-scikit-learn
-nltk
-pandas
-numpy
